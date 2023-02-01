@@ -1,0 +1,9 @@
+---
+  # PRIVATE DETAILS
+  kucoin_api: "api"
+  kucoin_secret: "secret"
+  kucoin_pass: "pass"
+  gateio_api: "api"
+  gateio_secret: "secret"
+  email_address: "Gmail"
+  email_password: "password"
